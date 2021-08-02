@@ -18,6 +18,8 @@ Config.AutodriveKeycode              = 118    -- Default (Numpad 9) = 118
 Config.AutodriveIncreaseSpeedKey     = 96     -- Default (Numpad +) = 96
 Config.AutodriveDecreaseSpeedKey     = 97     -- Default (Numpad -) = 97
 Config.SportModeKey                  = 111    -- Default (Numpad 8) = 111
+-- Change Keybinds --
+-- https://docs.fivem.net/docs/game-references/controls/ --
 
 -- Models --
 Config.AllowedModels                 = {"models"} -- Uppercase or Lowercase for all model names
