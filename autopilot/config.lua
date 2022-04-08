@@ -10,7 +10,7 @@ Config.EnableAutodrive               = true
 Config.EnableColAvoidance            = true
 Config.EnableReverseCamera           = true   -- If reverse camera off, lines also off but sound effects still working. 
 Config.EnableReverseLines            = true   -- Turn on/off reverse guidelines. (Camera and sound effects still work)
-Config.EnableSportMode               = true   -- Disable all functions while active.
+Config.EnableSportMode               = false   -- Disable all functions while active.
 
 -- Keycodes --
 Config.ReverseKeycode                = 73     -- Default (X) = 73
@@ -18,11 +18,9 @@ Config.AutodriveKeycode              = 118    -- Default (Numpad 9) = 118
 Config.AutodriveIncreaseSpeedKey     = 96     -- Default (Numpad +) = 96
 Config.AutodriveDecreaseSpeedKey     = 97     -- Default (Numpad -) = 97
 Config.SportModeKey                  = 111    -- Default (Numpad 8) = 111
--- Change Keybinds --
--- https://docs.fivem.net/docs/game-references/controls/ --
 
 -- Models --
-Config.AllowedModels                 = {"models"} -- Uppercase or Lowercase for all model names
+Config.AllowedModels                 = {"MODELS", "ROADSTER"} -- Uppercase or Lowercase for all model names
 
 -- Speed --
 Config.AutodriveMaxSpeed             = 40    -- Mph

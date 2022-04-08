@@ -1,5 +1,5 @@
 ------
--- Smart Car System by Marcus (Tatai Ákos)
+-- Tesla Autopilot by ZuuZoo
 -- Version: 1.0
 ------
 -- This script can prevent car crash, control high beam lights,
@@ -7,7 +7,7 @@
 -- range of 5-40mph.
 -- Here you can find client side functions and server side call's.
 -- This is the final version! I made this script free, but it takes a lot of work. 
--- If you consider supporting me, contact me on my discord (𝕸𝖆𝖗𝖈𝖚𝖘#0001) or email: theemarcus16@gmail.com. I appriciate it!
+-- If you consider supporting me, contact me on my discord (ZuuZoo#8951) or email: hollosibendeguz2007@gmail.com. I appriciate it!
 ------
 
 local alert = false
