@@ -9,6 +9,7 @@ Installation:
 
 KeyBinds: (Change the Keybinds? Config.lua)
 
+Default KeyBinds:
 Numpad 8: Sport Mode on/off
 Numpad 9: Autodrive on/off
 Numpad +: Increase Autodrive Speed
